@@ -1,6 +1,12 @@
 # Gatern机场 - 官方网站发布页
 
-[Gatern (原：Shuttle）](https://shuttle.gt-all.com/aff.php?aff=5181)创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。Gatern在全球拥有超过40个优质线路节点，全部采用BGP隧道中转/IPLC内网专线。
+## 更多优质机场推荐
+
+https://vpsworld.org/fanqiang-ranking/
+
+---
+
+[Gatern机场 (原：Shuttle）](https://shuttle.gt-all.com/aff.php?aff=5181)创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。Gatern在全球拥有超过40个优质线路节点，全部采用BGP隧道中转/IPLC内网专线。
 
 - **全域企业级跨境专线**
 - Vmess传输协议支持
@@ -10,7 +16,15 @@
 
 支持的地域节点：香港、台湾、日本、韩国、新加坡、马来西亚、菲律宾、印度尼西亚、印度、泰国、越南、巴基斯坦、以色列、哈萨克斯坦、阿联酋、澳大利亚、新西兰、美国、加拿大、墨西哥、阿根廷、巴西、英国、法国、德国、意大利、荷兰、瑞典、俄罗斯、乌克兰、土耳其、波兰、丹麦、立陶宛、拉脱维亚、瑞士、罗马尼亚、埃及、南非、尼日利亚
 
-# **订阅列表**
+## Rank Star
+
+⭐⭐⭐⭐⭐
+
+## **官方网站**
+
+[https://shuttle.gt-all.com/](https://shuttle.gt-all.com/aff.php?aff=5181)
+
+## **订阅列表**
 
 | 订阅名称 | 流量/月 | 速率 | 价格/月 |
 | --- | --- | --- | --- |
@@ -20,16 +34,16 @@
 | Medium | 740 GB | ∞ | ¥ 148.00 |
 | Large | 1460 GB | ∞ | ¥ 292.00 |
 
-# **优惠促销**
+## **优惠促销**
 
 - 充值返现：最高可达 20%
 
-# **售后服务**
+## **售后服务**
 
-## **工单**
+### **工单**
 
 [提交工单](https://shuttle.gt-all.com/supporttickets.php)
 
-# **官方网站**
+### 在线客服
 
-[点击直达](https://shuttle.gt-all.com/aff.php?aff=5181)
+[对话在线客服](https://shuttle.gt-all.com/clientarea.php)
