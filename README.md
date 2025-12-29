@@ -6,7 +6,7 @@ https://vpsworld.org/fanqiang-ranking/
 
 ---
 
-[Gatern机场 (原：Shuttle）](https://shuttle.gt-all.com/aff.php?aff=5181)创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。Gatern在全球拥有超过40个优质线路节点，全部采用BGP隧道中转/IPLC内网专线。
+[Gatern机场 (原：Shuttle）](https://s.gtoyes.com/aff.php?aff=5181)创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。Gatern在全球拥有超过40个优质线路节点，全部采用BGP隧道中转/IPLC内网专线。
 
 - **全域企业级跨境专线**
 - Vmess传输协议支持
@@ -22,7 +22,7 @@ https://vpsworld.org/fanqiang-ranking/
 
 ## **官方网站**
 
-[https://shuttle.gt-all.com/](https://shuttle.gt-all.com/aff.php?aff=5181)
+[https://shuttle.gt-all.com/](https://s.gtoyes.com/aff.php?aff=5181)
 
 ## **订阅列表**
 
@@ -42,8 +42,8 @@ https://vpsworld.org/fanqiang-ranking/
 
 ### **工单**
 
-[提交工单](https://shuttle.gt-all.com/supporttickets.php)
+[提交工单](https://s.gtoyes.com/supporttickets.php)
 
 ### 在线客服
 
-[对话在线客服](https://shuttle.gt-all.com/clientarea.php)
+[对话在线客服](https://s.gtoyes.com/clientarea.php)
