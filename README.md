@@ -16,7 +16,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ---
 
-[Gatern机场 (原：Shuttle）](https://s.gtna.net/aff.php?aff=5181)创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。Gatern在全球拥有超过40个优质线路节点，全部采用BGP隧道中转/IPLC内网专线。
+[Gatern机场 (原：Shuttle）](https://s.gtnb.net/invite/e6ZDC8kB3GN9)创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。Gatern在全球拥有超过40个优质线路节点，全部采用BGP隧道中转/IPLC内网专线。
 
 - 主要协议：Trojan、AnyTLS
 - **全域企业级跨境专线**
@@ -26,7 +26,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ## 🌐 官方网站
 
-[https://s.gtna.net/](https://s.gtna.net/aff.php?aff=5181)
+[https://s.gtnb.net/](https://s.gtnb.net/invite/e6ZDC8kB3GN9)
 
 ## 🌍 节点地域
 
@@ -92,4 +92,4 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 Gatern 机场自 2020 年运营至今，是一家经过多年市场检验的老牌机场，线路维护经验丰富，并采用 BGP 隧道中转与 IPLC 内网专线，在日常使用、晚高峰和特殊时期都能提供较为稳定的连接。相比普通机场，它不仅覆盖香港、日本、新加坡、美国等热门地区，还拥有土耳其、哈萨克斯坦、阿联酋、巴基斯坦、以色列、埃及、尼日利亚等大量小众地域节点，特别适合需要指定国家 IP、管理多地区账号、跨区订阅或解锁海外服务的用户。
 
-👉 官方网站：[https://s.gtna.net/](https://s.gtna.net/aff.php?aff=5181)
+👉 官方网站：[https://s.gtnb.net/](https://s.gtnb.net/invite/e6ZDC8kB3GN9)
